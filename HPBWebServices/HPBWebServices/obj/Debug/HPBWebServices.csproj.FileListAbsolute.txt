@@ -1,0 +1,5 @@
+C:\Users\BadzBadtz\Documents\Visual Studio 2008\Projects\HPBWebServices\HPBWebServices\bin\HPBWebServices.dll
+C:\Users\BadzBadtz\Documents\Visual Studio 2008\Projects\HPBWebServices\HPBWebServices\bin\HPBWebServices.pdb
+C:\Users\BadzBadtz\Documents\Visual Studio 2008\Projects\HPBWebServices\HPBWebServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BadzBadtz\Documents\Visual Studio 2008\Projects\HPBWebServices\HPBWebServices\obj\Debug\HPBWebServices.dll
+C:\Users\BadzBadtz\Documents\Visual Studio 2008\Projects\HPBWebServices\HPBWebServices\obj\Debug\HPBWebServices.pdb
